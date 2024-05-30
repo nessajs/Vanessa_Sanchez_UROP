@@ -1,4 +1,4 @@
-# Vanessa_Sanchez_UROP
+# Notes
 
-This repo contains all the MATLAB scripts used throughout my UROP. Each file is commented and a short description of each is below!
+This repo contains all the MATLAB scripts used throughout my UROP. Each file is commented and contains a short description. 
 
