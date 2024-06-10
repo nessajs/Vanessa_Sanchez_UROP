@@ -1,0 +1,1 @@
+This folder contains scripts for the initial models. There are two scripts for the no-defect case and two scripts for the defect case. The base script was used for graphical validation and the totals script was used to look at current distribution among the tapes.
